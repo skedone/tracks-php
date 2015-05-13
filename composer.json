@@ -1,0 +1,10 @@
+{
+    "name": "tracks/tracks-php",
+    "authors": [
+        {
+            "name": "Edoardo Biraghi",
+            "email": "edoardo.biraghi@gmail.com"
+        }
+    ],
+    "require": {}
+}
